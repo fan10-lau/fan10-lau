@@ -28,9 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
 </div>
 
-###
+##
 
-<p align="left">Find me at:</p>
+<h2 align="left">Find me at:</h2>
 
 ###
 
