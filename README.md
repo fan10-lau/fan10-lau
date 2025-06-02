@@ -1,5 +1,5 @@
 # 👋 Hey, this is Yiling Fan
-- Industrial Engineering @ UofT '27, double minoring in AI and Business<br>
+- Industrial Engineering @ University of Toronto, double minoring in AI and Business<br>
 - Interested in quantitative finance, data science, and operation research
 
 
